@@ -3,4 +3,27 @@ table{text-align: center;}
 a{color:tomato;}
 header{width: 100%; ; background-color:blanchedalmond;}
 h3{height: 30px;}
+/* Style navigation bar */
+nav {
+    background-color:  #927105e7 ;
+    padding: 20px;
+    width: 100%;
+}
 
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 70px;
+  display: inline;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
